@@ -1,0 +1,1 @@
+Main-Class: gulaev.com.Main
